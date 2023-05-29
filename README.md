@@ -1,5 +1,7 @@
 # Demo Project
-([https://sirac-alakus-recipe-app.netlify.app/](https://sirac-alakus-weather-app.netlify.app/))
+([https://sirac-alakus-recipe-app.netlify.app/]
+https://sirac-alakus-weather-app.netlify.app/
+)
 
 # Packages that need to be installed
 ### `npm i react-accessible-accordion`
