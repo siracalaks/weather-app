@@ -1,3 +1,10 @@
+# Demo Project
+([https://sirac-alakus-recipe-app.netlify.app/](https://sirac-alakus-weather-app.netlify.app/))
+
+# Packages that need to be installed
+### `npm i react-accessible-accordion`
+### `npm i react-select-async-paginate --force`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
